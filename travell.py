@@ -13,6 +13,6 @@ else:
     fuelused = 2.0
     mileage = 40.0
 
-    print("Didtance Travelled km:", distance_travelled)
-    print("Fuel Used liters:", fuel_used)
+    print("Didtance Travelled km:", distancetravelled)
+    print("Fuel Used liters:", fuelused)
     print("Mileage km/liter:", mileage)
